@@ -196,9 +196,9 @@ section.sobre {
   margin-top: 20px;    
 }
 section.sobre .flex{
-  align-items: normal;
+ 
   gap: 60px;
-  display: flex;
+
 }
 section.sobre .txt-sobre p{
   
@@ -353,4 +353,5 @@ section.contato h2 {
 
 html {
     scroll-behavior: smooth;
+
 }
