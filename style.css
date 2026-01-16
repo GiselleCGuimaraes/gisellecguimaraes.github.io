@@ -188,9 +188,9 @@ section.sobre {
 }
 
 .img-sobre-mim{
-  width: 500px;          /* tamanho da foto */
-  height: 300px;
-  border-radius: 50%;    /* deixa redonda */
+  width: 250px;          /* tamanho da foto */
+  height: 400px;
+  border-radius: 60%;    /* deixa redonda */
   object-fit: cover;
   flex-shrink: 0;      /* Garante que a imagem não ultrapasse o limite */
   margin-top: 20px;    
@@ -355,4 +355,5 @@ html {
     scroll-behavior: smooth;
 
 }
+
 
